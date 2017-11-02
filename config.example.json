@@ -1,0 +1,16 @@
+{
+  "bot":{
+    "username": "jeff"
+  },
+  "red":{
+    "username":"jeff",
+    "irc_token": "let me in its jeff"
+  ,
+  "twitter": {
+    "consumer_key": "",
+    "consumer_secret": "",
+    "access_token_key": "",
+    "access_token_secret": ""
+  }}
+}
+
